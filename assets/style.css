@@ -20,15 +20,21 @@
      background-blend-mode: ; 
     padding:4em; 
      box-shadow:   
+}*/
+.container{
+    background-image: linear-gradient(to bottom right,green,white);
+}
+#contact_container{
+    background-image: linear-gradient(to bottom right, grey, white);
+}
+#index_container{
+    background-image: linear-gradient(to bottom right,grey,white);
 }
 #portfolio{
-    background-image: url("./images/0.jpg");
-    background-color:blueviolet; 
-    background-image:repeat;
-    background-blend-mode: ; 
-    padding:4em; 
-     box-shadow:    
-}*/
+    background-image: linear-gradient(to bottom right,blueviolet, yellow);
+    
+      
+}
 nav{
     border-style:solid;
     border-width:5px;
